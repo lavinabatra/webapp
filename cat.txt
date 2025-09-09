@@ -1,0 +1,5 @@
+cat is an animal 
+cat is enemy of dog
+cat is a pet
+dog has many breads
+cat loves milk mice is enemy of cat
